@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <string.h>
-#define     SIZE    50
-
+#define NULL ((char *)0)
 
 char* strrchr1(const char* p, int c)
 {
